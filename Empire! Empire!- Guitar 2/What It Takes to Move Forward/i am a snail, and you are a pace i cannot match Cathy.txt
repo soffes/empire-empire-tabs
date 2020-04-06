@@ -1,0 +1,82 @@
+i am a snail, and you are a pace i cannot match
+
+guitar 2
+
+capo 2- standard tuning
+
+part one
+
+e 
+b -12-9--12---12--9--9--7--7--9-9-
+g 9--8-----9----9--9--9--9--9--9-9
+d -----11---11---9--9--0--0--0--0-
+a 
+e  
+
+part two
+
+e 
+b 12-9------------
+g ----11-9--------
+d --------11-9---0
+a ------------11-9
+e 
+
+part three                alt guitar (guitar 3)
+
+e                         e 
+b 12p9------              b 
+g ----11p9--              g 
+d --------11              d 11p9
+a                         a ----11p9-0
+e                         e 
+
+part four (chrous) i wrote this weird, but there are two parts
+
+e 
+b 
+g 13      16      13      16      13      16       9      8
+d  x (x3)  x (x3)  x (x3)  x (x3)  x (x3)  x (x3)  x (x3) x (x3)
+a 11      14      11      14      11      14       7      6
+e 
+
+e  
+b  
+g 13 13 13 16 16 16 13 13 13 16 16 16 9 9 9 9 9 9 8 8 8 8 8 8  
+d  x  x  x  x  x  x  x  x  x  x  x  x x x x x x x x x x x x x
+a 11 11 11 14 14 14 11 11 11 14 14 14 7 7 7 7 7 7 6 6 6 6 6 6
+e  
+
+part five (guitar 2)         (guitar 3)         
+
+e                         e 
+b 12p9------              b 
+g ----11p9--              g 
+d --------11              d 11p9
+a                         a ----11p9-0
+e                         e 
+
+(guitar 4 -switch to this half way when most everything else switches)
+
+e 
+b 
+g 13       16      13      9      13      16      9      8
+d  x        x       x      x       x       x      x      x
+a 11 (x 6) 14 (x6) 11 (x6) 7 (x6) 11 (x6) 14 (x6) 7 (x6) 6 (x6)
+
+part six (chrous)
+
+e 
+b 
+g 13      16      13      16      13      16       9      8
+d  x (x3)  x (x3)  x (x3)  x (x3)  x (x3)  x (x3)  x (x3) x (x3)
+a 11      14      11      14      11      14       7      6
+e 
+
+e  
+b  
+g 13 13 13 16 16 16 13 13 13 16 16 16 9 9 9 9 9 9 8 8 8 8 8 8  
+d  x  x  x  x  x  x  x  x  x  x  x  x x x x x x x x x x x x x
+a 11 11 11 14 14 14 11 11 11 14 14 14 7 7 7 7 7 7 6 6 6 6 6 6
+e  
+e 

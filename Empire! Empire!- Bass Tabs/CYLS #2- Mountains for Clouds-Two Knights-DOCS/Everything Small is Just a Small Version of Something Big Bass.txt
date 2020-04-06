@@ -1,0 +1,41 @@
+Everything Small is Just a Small Version of Something Big 
+
+Bass
+
+standard tuning- guitar capo:3
+
+verse
+
+g
+d
+a -----10-8-
+e 3-1-6----6
+
+palm-mute part (on guitar, not bass- just a ref)
+
+g 
+d -----------8(x4)7(x4)----------
+a 6(x16)8(x8)--------------------
+e ---------------------3(x16)1(x16)
+ 
+chorus
+
+g
+d
+a ------------------------66665555----------------66666666--------
+e 333333331111111166666666--------3333333311111111--------66666666
+
+doo-doo
+
+e 6-6-----
+
+verse
+
+g
+d
+a -----10-8-
+e 3-0-1----6
+
+doo-doo
+
+e 6-6-----

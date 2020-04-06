@@ -1,0 +1,62 @@
+guitar one lazy tab
+capo:1
+
+intro
+
+e 
+b 
+g 
+d 65  651310 8
+a 346634111110
+e   43
+
+verse
+
+e same thing but choppy
+b 
+g 
+d 
+a 
+e 
+
+chorus
+
+e 
+b
+g 8 6  8 60
+d 666666662
+a 864668642
+e  4 43 4 0
+
+verse 2
+
+palm mute
+
+e 
+b 
+g 
+d 651310 8
+a 34111110
+e 
+
+bridge
+
+e
+b
+g                0  0
+d  5s6p0 6s8p0 10    13
+a 3     4     8   11
+e
+
+verse again
+
+outro
+
+e
+b 13    13   13
+g 13131013138131310866
+d 11131011138111310866
+a   11 8  116  11 8644
+e
+
+

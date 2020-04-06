@@ -1,0 +1,41 @@
+The Horror of Riovanes
+
+Standard
+
+Part A
+e
+b
+g   9-7-12-9-7-14-12-
+d   x-x-  x-x- x-x-   x-
+a   7-5-10-7-5-12-10-
+E
+      x4
+
+e
+b
+g   9-7-12-14-
+d   x-x-  x-  x-
+a   7-5-10-12
+E
+       x2
+
+Part B
+e
+b
+g   9-7-14-12
+d   x-x-  x-  x
+a   7-5-12-10
+E
+       x2
+
+Part A
+
+Part B
+
+e
+b
+g   9p7            5/7       12\9-12\9\7                 9p7           5/7       12\9-12\9\7-14\12-9\7
+d          9p7\5       7/9                       9/12-7\5        9p7\5       7/9
+a
+E
+          x10

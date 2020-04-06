@@ -1,0 +1,87 @@
+It's a Fate Keith Guitar
+Standard
+
+Part one- Intro
+ 
+e  
+b -0----------0
+g --0-5s4s0---
+d 5--------2s3
+a 
+e 
+
+Part Two
+
+e 
+b 
+g -0------0------0-------------
+d ----0-0----0-0----0-0-0-0-0-0
+a 3-10-9-3-10-9-3-10-9-7-7-7-7-
+e 
+
+Part one- Intro again
+ 
+e  
+b -0----------0
+g --0-5s4s0---
+d 5--------2s3
+a 
+e 
+
+Verse
+"You threw your hands up in the air..."
+
+e 
+b 13    8    10    12
+g  0 x6 0 x6  0 x6  0 x6
+d  x    x     x     x
+a 12    7     9    10
+e
+
+Ring out on:
+
+e 
+b 8
+g 0
+d x
+a 7
+e
+
+Verse 2
+"This is how..."
+
+e 
+b 
+g --0---0--0---0--0---0-7--7--
+d -5-5-0--4-4-0-22-2-0---5--5
+a 7------7-------------3--3--
+e  
+
+Next part- strum
+"I couldn't do a damn thing..."
+
+e  0  0 0 0
+b  0  0 0 7 bend 7 a bit
+g  0  0 0 0
+d  9  4 5 5
+a 10  5 3 3
+e  0  0 0 0
+
+Last part
+"But wait..."
+
+e 
+b 0 0 0     0 0 0 
+g 7 0 0     7 5 4
+d 5 5 5 x 3 5 0 0
+a 7 7 7     7 0 0
+e 0 0 0     0 0 0
+
+then
+
+e           7
+b           7
+g 4 4 0     4 
+d 5 5 5 x 2 5 x 6
+a 3 3 3     3
+e 0 0 0     0

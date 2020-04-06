@@ -1,0 +1,45 @@
+Bonus Track Keith Guitar
+
+Standard, Capo:2
+
+Part One
+
+e 
+b 
+g --0--0---6---6
+d -6--6--7---7--
+a 9--7--5-5-5-5-
+e 
+
+Last bit
+
+e 
+b 
+g ---6---6
+d -7---7-- x 8 
+a 5-5-5-5-
+e 
+
+Part Two
+
+e -------------
+b -------000000 
+g -------600600 x2
+d -------700700
+a -------555755
+e 5 x 24-000000
+
+last time repeat: e 5 x 24
+
+Part Three
+
+e 0     0     0     0
+b 0     0     0     0
+g 0 x 6 0 x 6 0 x 6 0  x 6
+d 7     6     9     11
+a 7     7     7     9
+e 5     4     9     10
+
+Then end with this:
+
+e 5 x 24

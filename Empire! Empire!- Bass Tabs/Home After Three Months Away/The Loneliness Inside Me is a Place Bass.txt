@@ -1,0 +1,15 @@
+standard (guitar has capo on three)
+
+part one
+
+g                                               8875
+d                                      8875         8
+a 666688888 10 10 10 10 13 13 13 13         8666
+e                                   666
+
+part two
+
+g 
+d 
+a 10 13 6 10 13
+e               6

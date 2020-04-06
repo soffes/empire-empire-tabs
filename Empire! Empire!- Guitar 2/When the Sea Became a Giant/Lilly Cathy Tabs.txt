@@ -1,0 +1,32 @@
+Lilly Cathy tabs
+
+standard
+
+part 1
+e
+b
+g  0  0  0  0  0  0  0  0  0  0
+d 19 17 16 14 12 19 17 16 12 11 
+a
+E
+
+part 2
+e
+b 
+g  14 12 11 14 12 11 18 19 21   0
+d 0  0  0  0  0  0  0  0  0     0
+a
+E
+
+part 1
+
+e
+b  0  0  0 0 0   0
+g 14 12 11 9 7   0
+d
+a
+E
+
+part 2
+
+part 2 strummy

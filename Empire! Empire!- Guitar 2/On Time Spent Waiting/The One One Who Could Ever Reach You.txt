@@ -1,0 +1,86 @@
+the only one who could ever reach you Cathy
+
+Standard tuning
+
+harmonics
+e
+b                     12
+g 12  12  12  12  12 
+d   12  12  12  12  12
+a
+E
+
+part 1
+e
+b
+g 12p11       12p11         12p11
+d      12p10\9     12p10\9\7     12p10\9\7 5/9
+a
+E
+
+part 2
+e
+b
+g  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+d 5 5 5 5 5 5 7 7 7 9 9 9 9 9 9 9 9 9 9 9 9 
+a
+E
+
+part 3
+e
+b
+g  0 0 0 0   0 0 0 0   0 0 0 0  0  0  0  0  0  0  
+d 5 4 7 7 7 5 4 9 9 9 5 4 9 9 10 12 12 12 12 12 12
+a
+E
+
+part 4
+e                                                     harmonics
+b                                                     e
+g   17  16 12  0                                      b             12
+d   17  16 12  0                                      g 12  12  12
+a 14  12  9  10                                       d   12  12  12
+E                                                     a
+                                                      E
+
+part 3
+
+part 5
+e
+b                        12
+g                      12  12             
+d 9h10p9 9h10p9 9h10p9
+a
+E
+
+part 6
+e
+b
+g 12 11 16
+d
+a 10 9  14
+E
+
+part 7
+e            15                 alt: e
+b 13 12 13 12                        b
+g                                    g   16  16  16  16 19  19
+d                                    d 17  17  17  19     17  17
+a                                    a
+E                                    E 
+
+part 8
+e
+b 15
+g
+d 12
+a
+E
+
+part 9
+e
+b
+g    4      0   7  7  0  0    0
+d  5  5   4  4   5  5  5  5   0
+a 3 3  3 5 5  5   7  7  7  7 
+E
