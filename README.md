@@ -17,10 +17,10 @@ On [March 24, 2020](https://www.facebook.com/empireempireiwasalonelyestate/posts
 > - In some cases, a friend made a tab (probably for bass) and I also don't have any idea of there are mistakes there either.
 > - Some names are probably going to the pet names we called a release or song before we actually named the song. You might have to do some digging to figure out what song it is, lol. Fun!
 >
-> So, without further adieu, here is where you can download all the tabs: https://www.dropbox.com/s/59ejoaymqh469zy/Empire%21%20Empire%21-%20Guitar%20and%20Bass%20Tabs.zip?dl=0&fbclid=IwAR1ZpjN5akZPIt4McfhfU2i15nd5MCRWO9KQ3L-_uIx4oHiOwHs0qFkHdSU
+> So, without further adieu, here is where you can download all the tabs: [Dropbox link](https://www.dropbox.com/s/59ejoaymqh469zy/Empire%21%20Empire%21-%20Guitar%20and%20Bass%20Tabs.zip?dl=0&fbclid=IwAR1ZpjN5akZPIt4McfhfU2i15nd5MCRWO9KQ3L-_uIx4oHiOwHs0qFkHdSU)
 >
 > If you need a refresher, hear every song we recorded here: https://empireempire.bandcamp.com/
 >
 > If you feel like picking up records, go get them at Count Your Lucky Stars Records: cylsrecords.com
 
-Empire! Empire! has been my favorite band since 2008. I downloaded the files but didn’t want to lose them. I am archiving them here for safe keeping.
+Empire! Empire! has been my favorite band since 2008. I downloaded the files but didn’t want to lose them. I am archiving them here for safe keeping. Definitely support them on [Bandcamp](https://empireempire.bandcamp.com/)!
